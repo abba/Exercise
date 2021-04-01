@@ -1,0 +1,61 @@
+{
+  "aboutYouInfo": {
+    "title": "Mr",
+    "firstName": "Automated",
+    "lastName": "User002",
+    "dateOfBirth": "01/01/2000",
+    "maritalStatus": "Single",
+    "occupation": "Accountant",
+    "anySmoker": "No",
+    "phoneNumber": "03300600601",
+    "email": "vketipisz@qmetric.co.uk"
+  },
+  "statementsAboutYouInfo": {
+    "agree": "I agree",
+    "disagree": {
+      "propertyNotForBusiness": "I agree",
+      "noBankrupt": "I agree",
+      "ccJudgement": "I agree",
+      "insuranceRenewalDeclined": "I agree",
+      "noCancelledHomeInsurance": "I agree",
+      "noConvictedOffence": "I agree"
+    }
+  },
+  "aboutYourPropertyInfo": {
+    "addressOfProperty": "EC2N 4AY, 110 Bishopsgate",
+    "isCorrespondenceAddress": "Yes",
+    "typeOfProperty": "House",
+    "propertyDescription": "Detached house",
+    "yearOfBuilding": "1990",
+    "bedrooms": 2,
+    "OwnProperty": "Yes - mortgaged",
+    "occupiedBy": "You as sole occupier",
+    "whenOccupied": "During the day",
+    "tallTree": "No",
+    "flatRoof": "No"
+  },
+  "statementsAboutYourPropertyInfo": {
+    "doesAgree": "I agree"
+  },
+  "aboutYourSafetyInfo": {
+    "keyLocks": "Yes",
+    "selfContained": "No",
+    "frenchPatio": "No",
+    "externalDoors": "No",
+    "burglarAlarm": "No"
+  },
+  "aboutJointPolicyInfo": {
+    "addJoinPolicy": "No"
+  },
+  "insuranceHistoryInfo": {
+    "insuranceYears": 6,
+    "insuranceClaim": "No"
+  },
+  "aboutCoverInfo": {
+    "startDate": "Tomorrow",
+    "insuranceType": "Buildings only",
+    "propertyValue": "300,000",
+    "coverUpgrade": "No",
+    "standardExcess": "£200"
+  }
+}
